@@ -16,3 +16,7 @@ Hard Disk	:	2 GB (Min)
  Microphone                 :           System Microphone.
 
 ![image](https://user-images.githubusercontent.com/117522287/229705772-32189aad-44c0-4172-b7b7-77ba3ee33b08.png)
+
+Voice assistants have had a huge change in user’s interaction with technologies embedded in their devices. Like any other technology of such magnitude, they have altered the basic genome of the sphere in which they operate. While this has largely created a better world with drastic benefits for communities, which were before kept in dark with reference to technological innovations, they have posed new kind of threats with respect to user’s privacy and security.
+
+The future of voice assistants can be parameterized on an array of dimensions. With respect to compatibility and integration with other devices and systems, there are still a lot to be achieved, another dimension would be with respect to the redundant use of wake words at the beginning of each command. The individuality of results also poses a big problems. But for all intents and purposes, the future of these technology is a bright one. With advances in it and in technologies related to it (search processes, for example) Voice assistants can carry out even more complex tasks like booking tickets, etc. 
